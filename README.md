@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @goldNima
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning php
+                                                              👋 Hi, I’m Nima
+                                                              
+    
+- 👀 I’m interested in coding specially in frontEnd
+- 🌱 I’m currently learning php for backend
 - 💞️ I’m looking to collaborate on fronend web developer
+- all of my projects are available at my github
 
 
 <!---
