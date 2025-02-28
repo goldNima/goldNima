@@ -1,4 +1,4 @@
-                                         👋 Hi, I’m Nima
+  👋 Hi, I’m Nima
                                                               
     
 - 👀 I’m interested in coding specially in frontEnd
